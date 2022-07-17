@@ -1,9 +1,8 @@
-- 👋 Hi, I’m Alaa Ahmed Gamal El-Din,senior Student at FCI and i am Front-End Web Developer. 
-- 👀 I’m interested in web Developing
+- 👋 Hi,there
+im a Senior Software Engineering Student who Self-motivated and eager to learn more as a Junior Frontend Developer.
 - 🌱 I’m currently learning to be a web-developer.
 - My Skill Set : HTML5, CSS3, JavaScript.
 - ⚡ I'm a great communicator to love working with me!
-- 💞️ I’m looking to collaborate on ...
 - 📫 Contact Me  [LinkedIn](https://www.linkedin.com/in/alaa-%D9%90ahmed-6a36bb199/)
 
 
