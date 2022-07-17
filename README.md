@@ -4,8 +4,7 @@
 - My Skill Set : HTML5, CSS3, JavaScript.
 - ⚡ I'm a great communicator tend to love working with me!
 - 💞️ I’m looking to collaborate on ...
-- 📫 Contact Me 
--  https://www.linkedin.com/in/alaa-%D9%90ahmed-6a36bb199/
+- 📫 Contact Me  https://www.linkedin.com/in/alaa-%D9%90ahmed-6a36bb199/
 alaa.ahmedgamal10@gmail.com
 <!---
 aahmed1009/aahmed1009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
