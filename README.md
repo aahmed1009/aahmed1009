@@ -1,5 +1,5 @@
 - 👋 Hi,there
-i'm a passionate Software Engineer seeking a position as a Software Developer in an organization that can enable me to direct my
+I'm a passionate Software Engineer seeking a position as a Software Developer in an organization that can enable me to direct my
 potential towards achieving business goals and developing my own skills..
 - 🌱 I’m currently learning to be a frontend-developer.
 - My Skill Set : HTML5, CSS3, JavaScript.
